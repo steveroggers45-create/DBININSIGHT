@@ -8,6 +8,7 @@ This folder contains a relational database design for managing departments, empl
 - [`Table_Definitions.md`](./Table_Definitions.md) — column definitions, constraints, and key relationships.
 - [`create_tables.sql`](./create_tables.sql) — creates the four tables and their constraints.
 - [`insert_sample_data.sql`](./insert_sample_data.sql) — inserts sample departments, employees, projects, and assignments.
+- [`employee_management.db`](./employee_management.db) — ready-to-use SQLite database with the schema and sample data.
 
 ## Tables and relationships
 
